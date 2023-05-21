@@ -1,4 +1,4 @@
-# -sorting-algorithm-execution-pythonTimes
+# Sorting Algorithm Execution Python Times
 - Using Matplotlib
 
 ### Example comparative
