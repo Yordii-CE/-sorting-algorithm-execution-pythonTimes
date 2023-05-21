@@ -2,4 +2,4 @@
 - Using Matplotlib
 
 ### Example comparative
-![Descripción de la imagen](/example_conparative.jpeg)
+![Descripción de la imagen](example_conparative.jpeg)
