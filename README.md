@@ -1,5 +1,5 @@
-# Sorting Algorithm Execution Python Times
-- Using Matplotlib
+### Details
+- Matplotlib
 
 ### Screenshots
 - Example comparative
