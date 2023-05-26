@@ -6,5 +6,8 @@
 ![Descripción de la imagen](example_comparative.jpeg)
 
 - App
-https://github.com/Yordii-CE/sorting-algorithm-execution-times-python/assets/94014080/ac940a76-338d-4761-b306-3b9d9e4b2c22
+
+
+
+https://github.com/Yordii-CE/sorting-algorithm-execution-times-python/assets/94014080/d3eb52dd-57ae-4bf8-ba05-ada18a2a9367
 
