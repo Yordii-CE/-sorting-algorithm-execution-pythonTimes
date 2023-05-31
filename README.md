@@ -3,7 +3,7 @@
 
 ### Screenshots
 
-- App
+- Program video
 
 
 
